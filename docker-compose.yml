@@ -1,0 +1,34 @@
+version: '3'
+services:
+  redis:
+    image: redis:latest
+    container_name: redis-server
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./data:/data # Important: cela relie le dossier 'data' local au conteneur
+
+  redisinsight:
+    image: redis/redisinsight:latest
+    container_name: redis-insight
+    ports:
+      - "5540:5540"
+    depends_on:
+      - redis
+
+  # Ajout de l'image Jupyter notebook
+  notebook:
+    image: jupyter/scipy-notebook:latest # Une image populaire avec Python et des outils scientifiques
+    container_name: jupyter-notebook
+    ports:
+      - "8888:8888" # Port pour accéder à JupyterLab/Notebook
+    volumes:
+      - ./notebooks:/home/jovyan/work # Monte le dossier 'notebooks' local
+    environment:
+      - JUPYTER_ENABLE_LAB=yes # Optionnel: pour démarrer JupyterLab par défaut
+      # Décommentez la ligne suivante et mettez un mot de passe si vous le souhaitez
+      # - NOTEBOOK_ARGS="--NotebookApp.token='VOTRE_MOT_DE_PASSE_ICI'"
+
+volumes:
+  redis_data: # Ce volume n'est pas explicitement utilisé par les services ci-dessus mais est défini.
+              # Le volume ./data:/data pour redis est un "bind mount", pas un volume Docker nommé.
