@@ -1,0 +1,127 @@
+Number of actors with last name starting with 'P': 64
+
+Movies released after 2010 with more than 100,000 votes (120):
+- Title: The Martian, Year: 2015, Votes: 506641
+- Title: A Million Ways to Die in the West, Year: 2014, Votes: 138651
+- Title: Room, Year: 2015, Votes: 182004
+- Title: Non-Stop, Year: 2014, Votes: 242556
+- Title: The Lego Movie, Year: 2014, Votes: 251297
+- Title: 300: Rise of an Empire, Year: 2014, Votes: 229109
+- Title: The Hateful Eight, Year: 2015, Votes: 294908
+- Title: Captain America: The Winter Soldier, Year: 2014, Votes: 510608
+- Title: The Theory of Everything, Year: 2014, Votes: 275057
+- Title: Jurassic World, Year: 2015, Votes: 429565
+- Title: The Hunger Games: Mockingjay - Part 2, Year: 2015, Votes: 179028
+- Title: Jupiter Ascending, Year: 2015, Votes: 142878
+- Title: 10 Cloverfield Lane, Year: 2016, Votes: 149415
+- Title: Minions, Year: 2015, Votes: 148448
+- Title: Ted 2, Year: 2015, Votes: 123758
+- Title: Focus, Year: 2015, Votes: 155186
+- Title: Spider-Man: Far from Home, Year: 2019, Votes: 269287
+- Title: The Babadook, Year: 2014, Votes: 185189
+- Title: Cinderella, Year: 2015, Votes: 107389
+- Title: Spectre, Year: 2015, Votes: 287494
+- Title: Ghostbusters, Year: 2016, Votes: 111399
+- Title: Steve Jobs, Year: 2015, Votes: 102485
+- Title: Batman v Superman: Dawn of Justice, Year: 2016, Votes: 415255
+- Title: Inside Out, Year: 2015, Votes: 367848
+- Title: Guardians of the Galaxy, Year: 2014, Votes: 704613
+- Title: Whiplash, Year: 2014, Votes: 667323
+- Title: The Revenant, Year: 2015, Votes: 441653
+- Title: Guardians of the Galaxy Vol. 2, Year: 2017, Votes: 531435
+- Title: 22 Jump Street, Year: 2014, Votes: 265037
+- Title: Southpaw, Year: 2015, Votes: 154514
+- Title: Transformers: Age of Extinction, Year: 2014, Votes: 246318
+- Title: Suicide Squad, Year: 2016, Votes: 249658
+- Title: Battle Los Angeles, Year: 2011, Votes: 169988
+- Title: Kingsman: The Secret Service, Year: 2014, Votes: 410076
+- Title: Terminator Genisys, Year: 2015, Votes: 194182
+- Title: Zootopia, Year: 2016, Votes: 216939
+- Title: Divergent, Year: 2014, Votes: 412364
+- Title: Sin City: A Dame to Kill For, Year: 2014, Votes: 114899
+- Title: Bridge of Spies, Year: 2015, Votes: 192125
+- Title: Creed, Year: 2015, Votes: 157387
+- Title: Furious Seven, Year: 2015, Votes: 284316
+- Title: Black Mass, Year: 2015, Votes: 123475
+- Title: Star Wars: Episode IX - The Rise of Skywalker, Year: 2019, Votes: 295585
+- Title: Maze Runner: The Scorch Trials, Year: 2015, Votes: 146153
+- Title: The Fault in Our Stars, Year: 2014, Votes: 256899
+- Title: Ant-Man, Year: 2015, Votes: 535953
+- Title: Fifty Shades of Grey, Year: 2015, Votes: 224710
+- Title: Warcraft, Year: 2016, Votes: 154327
+- Title: Unbroken, Year: 2014, Votes: 106707
+- Title: Mission: Impossible - Rogue Nation, Year: 2015, Votes: 241599
+- Title: Iron Man 3, Year: 2013, Votes: 726152
+- Title: Chappie, Year: 2015, Votes: 177519
+- Title: Deadpool, Year: 2016, Votes: 533503
+- Title: The Amazing Spider-Man 2, Year: 2014, Votes: 402143
+- Title: Dawn of the Planet of the Apes, Year: 2014, Votes: 323652
+- Title: Spider-Man: Into the Spider-Verse, Year: 2018, Votes: 302962
+- Title: Mad Max: Fury Road, Year: 2015, Votes: 578046
+- Title: Neighbors, Year: 2014, Votes: 224378
+- Title: Now You See Me 2, Year: 2016, Votes: 112664
+- Title: The Nice Guys, Year: 2016, Votes: 116011
+- Title: Pitch Perfect 2, Year: 2015, Votes: 101190
+- Title: Star Trek Beyond, Year: 2016, Votes: 111125
+- Title: Fury, Year: 2014, Votes: 312068
+- Title: Ex Machina, Year: 2015, Votes: 304335
+- Title: Everest, Year: 2015, Votes: 142142
+- Title: Predestination, Year: 2014, Votes: 172521
+- Title: The Intern, Year: 2015, Votes: 142646
+- Title: Boyhood, Year: 2014, Votes: 272604
+- Title: Hercules, Year: 2014, Votes: 117904
+- Title: The Conjuring 2, Year: 2016, Votes: 108550
+- Title: Straight Outta Compton, Year: 2015, Votes: 127258
+- Title: Noah, Year: 2014, Votes: 203170
+- Title: The Jungle Book, Year: 2016, Votes: 151342
+- Title: The Maze Runner, Year: 2014, Votes: 318953
+- Title: X-Men: Days of Future Past, Year: 2014, Votes: 524078
+- Title: American Sniper, Year: 2014, Votes: 333228
+- Title: It Follows, Year: 2014, Votes: 120440
+- Title: Nightcrawler, Year: 2014, Votes: 304445
+- Title: The Drop, Year: 2014, Votes: 109038
+- Title: Star Wars: Episode VII - The Force Awakens, Year: 2015, Votes: 831843
+- Title: Spy, Year: 2015, Votes: 176403
+- Title: Tomorrowland, Year: 2015, Votes: 132793
+- Title: Fantastic Four, Year: 2015, Votes: 114717
+- Title: The Girl on the Train, Year: 2016, Votes: 160200
+- Title: Last Vegas, Year: 2013, Votes: 124330
+- Title: Dracula Untold, Year: 2014, Votes: 141759
+- Title: Big Hero 6, Year: 2014, Votes: 288143
+- Title: Horrible Bosses 2, Year: 2014, Votes: 117742
+- Title: John Wick, Year: 2014, Votes: 503014
+- Title: Jack Reacher: Never Go Back, Year: 2016, Votes: 130230
+- Title: Insurgent, Year: 2015, Votes: 160386
+- Title: The Judge, Year: 2014, Votes: 140247
+- Title: Jack Ryan: Shadow Recruit, Year: 2014, Votes: 100550
+- Title: The Hobbit: The Battle of the Five Armies, Year: 2014, Votes: 363557
+- Title: Birdman or (The Unexpected Virtue of Ignorance), Year: 2014, Votes: 408054
+- Title: The Big Short, Year: 2015, Votes: 206783
+- Title: The Other Woman, Year: 2014, Votes: 106752
+- Title: The Grand Budapest Hotel, Year: 2014, Votes: 492158
+- Title: Teenage Mutant Ninja Turtles, Year: 2014, Votes: 172213
+- Title: Star Wars: Episode VIII - The Last Jedi, Year: 2017, Votes: 531361
+- Title: Interstellar, Year: 2014, Votes: 961763
+- Title: Gone Girl, Year: 2014, Votes: 589116
+- Title: Maleficent, Year: 2014, Votes: 257707
+- Title: Sicario, Year: 2015, Votes: 212880
+- Title: 1917, Year: 2019, Votes: 290813
+- Title: Exodus: Gods and Kings, Year: 2014, Votes: 131331
+- Title: Avengers: Age of Ultron, Year: 2015, Votes: 479512
+- Title: Transcendence, Year: 2014, Votes: 176429
+- Title: Captain America: Civil War, Year: 2016, Votes: 627228
+- Title: Spotlight, Year: 2015, Votes: 220052
+- Title: The Imitation Game, Year: 2014, Votes: 489175
+- Title: Need for Speed, Year: 2014, Votes: 139153
+- Title: The Expendables 3, Year: 2014, Votes: 130394
+- Title: The Interview, Year: 2014, Votes: 251910
+- Title: Spider-Man: Homecoming, Year: 2017, Votes: 473931
+- Title: The Equalizer, Year: 2014, Votes: 235859
+- Title: Edge of Tomorrow, Year: 2014, Votes: 443643
+- Title: X-Men: Apocalypse, Year: 2016, Votes: 210509
+- Title: San Andreas, Year: 2015, Votes: 152249
+- Title: The Hunger Games: Mockingjay - Part 1, Year: 2014, Votes: 313261
+
+
+
+Created 25 new hashes for top movies by genre
